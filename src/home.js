@@ -7,7 +7,7 @@ function Home() {
       <header className="Home-header">
         <h1>Welcome to the Wheezer!</h1>
         <p>
-         Home of local NYC music-related events! You can find usical events and memorabillia in areas near you!
+         Home of local NYC music-related events! You can find musical events and memorabillia in areas near you!
         </p>
         <a
           className="Home-link"
