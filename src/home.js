@@ -5,9 +5,9 @@ function Home() {
   return (
     <div className="Home">
       <header className="Home-header">
-        <h1>Welcome to the Home Page</h1>
+        <h1>Welcome to the Wheezer!</h1>
         <p>
-          Edit <code>src/home.js</code> and save to reload.
+         Home of local NYC music-related events!
         </p>
         <a
           className="Home-link"

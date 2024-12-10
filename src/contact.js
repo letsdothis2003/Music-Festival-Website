@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div className="Contact">
       <h2>Contact Us</h2>
-      <p>Email: info@tourwebsite.com</p>
+      <p>Email: info@website.com</p>
       <p>Phone: +1 (555) 123-4567</p>
     </div>
   );
