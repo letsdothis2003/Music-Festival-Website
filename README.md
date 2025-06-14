@@ -2,6 +2,10 @@ This project was created with the collaborative efforts of Jamal Siddiqui, Fahim
 
 This is a website intended to be a generic music festival booking website, which includes a merch store. This is implemented using Stripe API to ensure people can actually buy stuff using their credit card seemelessly. The actual website itself uses React as it's frontend, Nodejs as its backend and Mongodb for database. The file imports necessary modules such as express for creating a server, cors for handling cross-origin requests, stripe for integrating Stripe payment services, and mongodb for connecting to a MongoDB database.
 
+
+This video provides a demonstration of the website and how it works:
+https://www.youtube.com/watch?v=cw2nTkOSVmQ
+
 If you look through the code:
 
 
