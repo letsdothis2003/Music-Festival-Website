@@ -11,29 +11,54 @@ function Location() {
         </p>
         <ul className="Event-list">
           <li>
-            <strong>Vinyl Haven Pop-Up</strong> - Dive into the world of rare records at this collector’s paradise.  
-            <em>Location:</em> Soundwave Lounge, Brooklyn, NY.  
-            <em>Date:</em> Saturday, Dec 16, 2024.  
+            <strong>Vinyl Haven Pop-Up</strong>
+            <p>Dive into the world of rare records at this collector's paradise.</p>
+            <div>
+              <em>Location:</em> Soundwave Lounge, Brooklyn, NY
+            </div>
+            <div>
+              <em>Date:</em> Saturday, Dec 16, 2024
+            </div>
           </li>
           <li>
-            <strong>Moonlit Jazz Gala</strong> - Enjoy a magical evening of smooth jazz under a canopy of stars.  
-            <em>Location:</em> Central Park Amphitheater, Manhattan, NY.  
-            <em>Date:</em> Friday, Dec 22, 2024.  
+            <strong>Moonlit Jazz Gala</strong>
+            <p>Enjoy a magical evening of smooth jazz under a canopy of stars.</p>
+            <div>
+              <em>Location:</em> Central Park Amphitheater, Manhattan, NY
+            </div>
+            <div>
+              <em>Date:</em> Friday, Dec 22, 2024
+            </div>
           </li>
           <li>
-            <strong>Global Rhythms Festival</strong> - Celebrate diverse musical traditions from around the globe.  
-            <em>Location:</em> Queens Cultural Center, Queens, NY.  
-            <em>Date:</em> Monday, Jan 8, 2025.  
+            <strong>Global Rhythms Festival</strong>
+            <p>Celebrate diverse musical traditions from around the globe.</p>
+            <div>
+              <em>Location:</em> Queens Cultural Center, Queens, NY
+            </div>
+            <div>
+              <em>Date:</em> Monday, Jan 8, 2025
+            </div>
           </li>
           <li>
-            <strong>Melody Makers Workshop</strong> - Create your own tunes at this interactive music-making event.  
-            <em>Location:</em> Artistry Studio, Williamsburg, Brooklyn, NY.  
-            <em>Date:</em> Sunday, Jan 14, 2025.  
+            <strong>Melody Makers Workshop</strong>
+            <p>Create your own tunes at this interactive music-making event.</p>
+            <div>
+              <em>Location:</em> Artistry Studio, Williamsburg, Brooklyn, NY
+            </div>
+            <div>
+              <em>Date:</em> Sunday, Jan 14, 2025
+            </div>
           </li>
           <li>
-            <strong>Symphony in the Park</strong> - Experience a live orchestra with breathtaking views of the city skyline.  
-            <em>Location:</em> Battery Park, Manhattan, NY.  
-            <em>Date:</em> Saturday, Feb 3, 2025.  
+            <strong>Symphony in the Park</strong>
+            <p>Experience a live orchestra with breathtaking views of the city skyline.</p>
+            <div>
+              <em>Location:</em> Battery Park, Manhattan, NY
+            </div>
+            <div>
+              <em>Date:</em> Saturday, Feb 3, 2025
+            </div>
           </li>
         </ul>
         <p>
