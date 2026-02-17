@@ -11,7 +11,7 @@ function App() {
   const [cart, setCart] = useState([]); // State to hold cart items
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL || "/"}>
       <div className="App">
         <Navbar cart={cart} /> {/* Pass cart as a prop to Navbar */}
         <main>
