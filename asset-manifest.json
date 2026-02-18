@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Music-Festival-Website/static/css/main.688900bf.css",
-    "main.js": "/Music-Festival-Website/static/js/main.66f8c01f.js",
+    "main.js": "/Music-Festival-Website/static/js/main.173b19f5.js",
     "static/js/453.b33106ef.chunk.js": "/Music-Festival-Website/static/js/453.b33106ef.chunk.js",
     "static/media/sitelogo.png": "/Music-Festival-Website/static/media/sitelogo.522f9a673ba324064c8e.png",
     "index.html": "/Music-Festival-Website/index.html",
     "main.688900bf.css.map": "/Music-Festival-Website/static/css/main.688900bf.css.map",
-    "main.66f8c01f.js.map": "/Music-Festival-Website/static/js/main.66f8c01f.js.map",
+    "main.173b19f5.js.map": "/Music-Festival-Website/static/js/main.173b19f5.js.map",
     "453.b33106ef.chunk.js.map": "/Music-Festival-Website/static/js/453.b33106ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.688900bf.css",
-    "static/js/main.66f8c01f.js"
+    "static/js/main.173b19f5.js"
   ]
 }
